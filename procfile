@@ -1,0 +1,1 @@
+web: python main.py  --master --process 4 --threads 2
